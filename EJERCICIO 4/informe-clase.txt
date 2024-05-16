@@ -1,0 +1,5 @@
+Numero de estudiantes: 20
+Edad media: 25
+Nota media: 7,91
+Nota maxima: 9,30
+Nota minima: 6,20
